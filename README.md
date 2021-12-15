@@ -1,4 +1,10 @@
-# termux-proot-distro-install
-A Termux Proot-distro Installer (Very basic script, I'm still starting)
+Hello and Thank you for Downloading this script!
 
-And also go to Releases to obtain it and use wget command and copy the file
+This Script automates installation of Proot-distro on Termux if you have an issue!
+
+Contact Blaze YT on YouTube or PM u/itsfreepizza on Reddit for Information
+
+This is an Open Source Project, anyone can have their own ways using this code.
+
+But then, why is this code looks so basic?
+Well sorry , im still an amateur and im working hard to learn code programming! and yes this is basic and very fragile if you ask me
